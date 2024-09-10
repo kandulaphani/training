@@ -1,3 +1,2 @@
-hello friends
-a;lakjdf
-a;ldkfja;lakjdfjsdk;lfkja;lkj
+hi this is git training
+welcome to the .git traning
